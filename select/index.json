@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Limbo",
+  "base_artist": "Freddie Dredd",
+  "createdAt": "2026-02-12T11:40:13.317122Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "In Limbo",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/01_In_Limbo_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "In Limbo - Live At Canal+ Studios, Paris",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/02_In_Limbo_-_Live_At_Canal+_Studios,_Paris_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "In Limbo (Live at Canal+ Studios Paris, 2001-04-28)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/03_In_Limbo_(Live_at_Canal+_Studios_Paris,_2001-04-28)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hug My Soul (Secret Knowledge Limbo mix)",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/04_Hug_My_Soul_(Secret_Knowledge_Limbo_mix)_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Language of Limbo",
+      "artist": "Sevdaliza",
+      "has_synced": true,
+      "path": "select/05_The_Language_of_Limbo_Sevdaliza.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Limbo",
+      "artist": "Boom Boom Satellites",
+      "has_synced": false,
+      "path": "select/06_Limbo_Boom_Boom_Satellites.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Limbo",
+      "artist": "Say Lou Lou",
+      "has_synced": true,
+      "path": "select/07_Limbo_Say_Lou_Lou.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Zombie Limbo Time",
+      "artist": "Beat Happening",
+      "has_synced": false,
+      "path": "select/08_Zombie_Limbo_Time_Beat_Happening.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Limbo",
+      "artist": "Throwing Muses",
+      "has_synced": false,
+      "path": "select/09_Limbo_Throwing_Muses.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Limbo",
+      "artist": "Throwing Muses",
+      "has_synced": true,
+      "path": "select/10_Limbo_Throwing_Muses.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "In Limbo",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/11_In_Limbo_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "In Limbo (feat. The Sa-Ra All Stars)",
+      "artist": "Sa-Ra feat. The Sa-Ra All Stars",
+      "has_synced": false,
+      "path": "select/12_In_Limbo_(feat._The_Sa-Ra_All_Stars)_Sa-Ra_feat._The_Sa-Ra_All_Stars.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "In Limbo",
+      "artist": "Sa-Ra feat․ The Sa-Ra All Stars",
+      "has_synced": false,
+      "path": "select/13_In_Limbo_Sa-Ra_feat._The_Sa-Ra_All_Stars.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Limbo",
+      "artist": "Kimbra",
+      "has_synced": true,
+      "path": "select/14_Limbo_Kimbra.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Limbo",
+      "artist": "Westworld",
+      "has_synced": false,
+      "path": "select/15_Limbo_Westworld.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Limbo",
+      "artist": "Westworld (TNT)",
+      "has_synced": false,
+      "path": "select/16_Limbo_Westworld_(TNT).txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Limbo (Latin mix)",
+      "artist": "Bryan Ferry",
+      "has_synced": false,
+      "path": "select/17_Limbo_(Latin_mix)_Bryan_Ferry.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Limbo",
+      "artist": "Freddie Dredd",
+      "has_synced": false,
+      "path": "select/pl_01_Limbo_Freddie_Dredd.txt"
+    }
+  ]
+}
